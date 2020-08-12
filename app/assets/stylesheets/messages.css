@@ -129,14 +129,14 @@
   width: 100%;
 }
 
-.input-text{
+.form-message{
   padding-left: 10px;
   border: none;
   height: 50px;
   width: 100%;
 }
 
-.submit-btn{
+.form-submit{
   background-color: #38AEF0 ;
   font-size: 16px;
   color: white;
